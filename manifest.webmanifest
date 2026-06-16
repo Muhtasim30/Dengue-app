@@ -1,0 +1,17 @@
+{
+  "name": "Dengue Prohori — ডেঙ্গু প্রহরী",
+  "short_name": "Dengue Prohori",
+  "description": "Smart community dengue early-warning: live area risk, forecasts, heatmap, and alerts.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "categories": ["health", "medical", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
