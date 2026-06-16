@@ -1,8 +1,8 @@
 /* Dengue Prohori service worker — offline app shell + cached libraries + notifications */
-const CACHE = "prohori-v3";
+const CACHE = "prohori-v4";
 const SHELL = [
   "./", "./index.html", "./prohori-model.js", "./manifest.webmanifest",
-  "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png", "./icons/icon-maskable.png"
+  "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png", "./icon-maskable.png"
 ];
 const RUNTIME_HOSTS = ["cdnjs.cloudflare.com", "fonts.googleapis.com", "fonts.gstatic.com"];
 
